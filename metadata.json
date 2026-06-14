@@ -1,0 +1,6 @@
+{
+  "name": "DEVET",
+  "description": "Footwear retail stock and inventory management workspace with integrated POS and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
